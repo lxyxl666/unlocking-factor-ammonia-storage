@@ -1,0 +1,61 @@
+{
+  "window_days": 5,
+  "window_start": "2025-10-08",
+  "window_end": "2025-10-12",
+  "results": [
+    {
+      "total_nh3_t": 0,
+      "daily_nh3_t": 0,
+      "ren_available_MWh": 766.00264,
+      "ren_used_MWh": 369.25001091000007,
+      "curtailment_MWh": 396.75262908999997,
+      "grid_import_MWh": 0.0,
+      "storage_MWh": 50
+    },
+    {
+      "total_nh3_t": 25,
+      "daily_nh3_t": 5,
+      "ren_available_MWh": 766.00264,
+      "ren_used_MWh": 675.01451752,
+      "curtailment_MWh": 90.98812247999999,
+      "grid_import_MWh": 0.0,
+      "storage_MWh": 50
+    },
+    {
+      "total_nh3_t": 0,
+      "daily_nh3_t": 0,
+      "ren_available_MWh": 766.00264,
+      "ren_used_MWh": 398.01143290000005,
+      "curtailment_MWh": 367.9912071,
+      "grid_import_MWh": 0.0,
+      "storage_MWh": 100
+    },
+    {
+      "total_nh3_t": 25,
+      "daily_nh3_t": 5,
+      "ren_available_MWh": 766.00264,
+      "ren_used_MWh": 725.1572923,
+      "curtailment_MWh": 40.8453477,
+      "grid_import_MWh": 0.0,
+      "storage_MWh": 100
+    },
+    {
+      "total_nh3_t": 0,
+      "daily_nh3_t": 0,
+      "ren_available_MWh": 766.00264,
+      "ren_used_MWh": 433.45293310000005,
+      "curtailment_MWh": 332.5497069,
+      "grid_import_MWh": 0.0,
+      "storage_MWh": 200
+    },
+    {
+      "total_nh3_t": 25,
+      "daily_nh3_t": 5,
+      "ren_available_MWh": 766.00264,
+      "ren_used_MWh": 718.2425689,
+      "curtailment_MWh": 47.760071100000005,
+      "grid_import_MWh": 0.0,
+      "storage_MWh": 200
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "tou_sensitivity": [
+    {
+      "multiplier": 0.6,
+      "ton_cost": -734.9,
+      "total_cost": -26456.57,
+      "alkel_share": 0.3403,
+      "equipment_utilization": 0.5,
+      "daily_nh3": 36.0,
+      "grid_buy_MWh": 172.95,
+      "grid_sell_MWh": 745.18
+    },
+    {
+      "multiplier": 0.8,
+      "ton_cost": -441.38,
+      "total_cost": -15889.6,
+      "alkel_share": 0.2993,
+      "equipment_utilization": 0.5,
+      "daily_nh3": 36.0,
+      "grid_buy_MWh": 149.69,
+      "grid_sell_MWh": 724.39
+    },
+    {
+      "multiplier": 1.0,
+      "ton_cost": -144.62,
+      "total_cost": -5206.45,
+      "alkel_share": 0.2579,
+      "equipment_utilization": 0.5,
+      "daily_nh3": 36.0,
+      "grid_buy_MWh": 128.99,
+      "grid_sell_MWh": 706.15
+    },
+    {
+      "multiplier": 1.2,
+      "ton_cost": -52.89,
+      "total_cost": -1904.06,
+      "alkel_share": 0.0441,
+      "equipment_utilization": 0.5,
+      "daily_nh3": 36.0,
+      "grid_buy_MWh": 1.46,
+      "grid_sell_MWh": 590.61
+    },
+    {
+      "multiplier": 1.4,
+      "ton_cost": -50.11,
+      "total_cost": -1804.11,
+      "alkel_share": 0.0441,
+      "equipment_utilization": 0.5,
+      "daily_nh3": 36.0,
+      "grid_buy_MWh": 1.46,
+      "grid_sell_MWh": 590.61
+    }
+  ],
+  "feedin_sensitivity": [
+    {
+      "multiplier": 0.5,
+      "feedin_price": 0.18895,
+      "ton_cost": 2960.86,
+      "grid_sell_MWh": 547.33,
+      "self_use_ratio": 0.0236
+    },
+    {
+      "multiplier": 0.75,
+      "feedin_price": 0.28342500000000004,
+      "ton_cost": 1490.79,
+      "grid_sell_MWh": 587.57,
+      "self_use_ratio": -0.0482
+    },
+    {
+      "multiplier": 1.0,
+      "feedin_price": 0.3779,
+      "ton_cost": -144.62,
+      "grid_sell_MWh": 706.15,
+      "self_use_ratio": -0.2597
+    },
+    {
+      "multiplier": 1.25,
+      "feedin_price": 0.472375,
+      "ton_cost": -2057.65,
+      "grid_sell_MWh": 724.39,
+      "self_use_ratio": -0.2923
+    },
+    {
+      "multiplier": 1.5,
+      "feedin_price": 0.5668500000000001,
+      "ton_cost": -3958.66,
+      "grid_sell_MWh": 724.39,
+      "self_use_ratio": -0.2923
+    }
+  ],
+  "min_load_sensitivity": [
+    {
+      "alkel_min": 0.1,
+      "pemel_min": 0.05,
+      "label": "Base PEMEL",
+      "daily_nh3": 51.1163,
+      "ton_cost": 4749.12,
+      "alkel_share": 0.366,
+      "equipment_utilization": 0.7099
+    },
+    {
+      "alkel_min": 0.15,
+      "pemel_min": 0.05,
+      "label": "Base (ALKEL 15%)",
+      "daily_nh3": 51.1163,
+      "ton_cost": 4749.12,
+      "alkel_share": 0.366,
+      "equipment_utilization": 0.7099
+    },
+    {
+      "alkel_min": 0.2,
+      "pemel_min": 0.05,
+      "label": "ALKEL 20%",
+      "daily_nh3": 51.0743,
+      "ton_cost": 4750.14,
+      "alkel_share": 0.3704,
+      "equipment_utilization": 0.7094
+    },
+    {
+      "alkel_min": 0.15,
+      "pemel_min": 0.1,
+      "label": "PEMEL 10%",
+      "daily_nh3": 51.1163,
+      "ton_cost": 4749.12,
+      "alkel_share": 0.366,
+      "equipment_utilization": 0.7099
+    },
+    {
+      "alkel_min": 0.2,
+      "pemel_min": 0.1,
+      "label": "Both high",
+      "daily_nh3": 51.0743,
+      "ton_cost": 4750.14,
+      "alkel_share": 0.3704,
+      "equipment_utilization": 0.7094
+    },
+    {
+      "alkel_min": 0.25,
+      "pemel_min": 0.05,
+      "label": "ALKEL 25%",
+      "daily_nh3": 51.0376,
+      "ton_cost": 4750.46,
+      "alkel_share": 0.3684,
+      "equipment_utilization": 0.7089
+    }
+  ]
+}

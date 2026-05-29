@@ -1,0 +1,12 @@
+{
+  "data_source": "NASA POWER",
+  "location": "(41.0, 111.5)",
+  "year": 2025,
+  "parameters": "WS50M, ALLSKY_SFC_SW_DWN",
+  "wind_clusters": 6,
+  "solar_clusters": 4,
+  "wind_capacity_MW": 40,
+  "solar_capacity_MW": 64,
+  "wind_power_curve": "cubic, cutin=3.0m/s, rated=12.0m/s",
+  "processing_date": "2026-05-27"
+}

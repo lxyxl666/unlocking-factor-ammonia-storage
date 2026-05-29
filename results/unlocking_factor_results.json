@@ -1,0 +1,157 @@
+{
+  "summary": {
+    "n_scenarios": 24,
+    "storage_range_MWh": [
+      0,
+      100
+    ],
+    "uf_mean": 0.6974,
+    "uf_median": 0.8304,
+    "uf_std": 0.3759,
+    "uf_max": 1.908,
+    "uf_min": 0.0447,
+    "uf_at_optimal": {
+      "1": {
+        "optimal_storage_MWh": 90,
+        "uf": 0.8928,
+        "daily_nh3": 57.464,
+        "ton_cost": 4705.33
+      },
+      "2": {
+        "optimal_storage_MWh": 10,
+        "uf": 0.954,
+        "daily_nh3": 50.7422,
+        "ton_cost": 4504.25
+      },
+      "3": {
+        "optimal_storage_MWh": 10,
+        "uf": 1.029,
+        "daily_nh3": 49.1208,
+        "ton_cost": 4306.66
+      },
+      "4": {
+        "optimal_storage_MWh": 10,
+        "uf": 1.106,
+        "daily_nh3": 47.9896,
+        "ton_cost": 4144.59
+      },
+      "5": {
+        "optimal_storage_MWh": 100,
+        "uf": 0.8714,
+        "daily_nh3": 61.1315,
+        "ton_cost": 4491.58
+      },
+      "6": {
+        "optimal_storage_MWh": 20,
+        "uf": 0.702,
+        "daily_nh3": 53.643,
+        "ton_cost": 4318.23
+      },
+      "7": {
+        "optimal_storage_MWh": 10,
+        "uf": 0.731,
+        "daily_nh3": 50.6369,
+        "ton_cost": 4155.73
+      },
+      "8": {
+        "optimal_storage_MWh": 10,
+        "uf": 0.652,
+        "daily_nh3": 48.4871,
+        "ton_cost": 4041.52
+      },
+      "9": {
+        "optimal_storage_MWh": 0,
+        "uf": 0.0,
+        "daily_nh3": 36.4896,
+        "ton_cost": 4583.84
+      },
+      "10": {
+        "optimal_storage_MWh": 10,
+        "uf": 0.866,
+        "daily_nh3": 34.1342,
+        "ton_cost": 4390.73
+      },
+      "11": {
+        "optimal_storage_MWh": 0,
+        "uf": 0.0,
+        "daily_nh3": 30.0022,
+        "ton_cost": 4213.57
+      },
+      "12": {
+        "optimal_storage_MWh": 0,
+        "uf": 0.0,
+        "daily_nh3": 26.7533,
+        "ton_cost": 4120.82
+      },
+      "13": {
+        "optimal_storage_MWh": 10,
+        "uf": 1.7,
+        "daily_nh3": 40.0717,
+        "ton_cost": 4112.6
+      },
+      "14": {
+        "optimal_storage_MWh": 10,
+        "uf": 1.908,
+        "daily_nh3": 36.1652,
+        "ton_cost": 3957.64
+      },
+      "15": {
+        "optimal_storage_MWh": 0,
+        "uf": 0.0,
+        "daily_nh3": 28.9205,
+        "ton_cost": 3972.08
+      },
+      "16": {
+        "optimal_storage_MWh": 10,
+        "uf": 0.785,
+        "daily_nh3": 23.29,
+        "ton_cost": 4173.07
+      },
+      "17": {
+        "optimal_storage_MWh": 10,
+        "uf": 1.785,
+        "daily_nh3": 40.6725,
+        "ton_cost": 4056.73
+      },
+      "18": {
+        "optimal_storage_MWh": 10,
+        "uf": 1.725,
+        "daily_nh3": 36.3009,
+        "ton_cost": 3924.64
+      },
+      "19": {
+        "optimal_storage_MWh": 0,
+        "uf": 0.0,
+        "daily_nh3": 28.4586,
+        "ton_cost": 3976.54
+      },
+      "20": {
+        "optimal_storage_MWh": 10,
+        "uf": 0.603,
+        "daily_nh3": 22.7579,
+        "ton_cost": 4176.42
+      }
+    },
+    "scenario_1_uf_at_10MWh": 0.867,
+    "scenario_2_uf_at_10MWh": 0.954,
+    "scenario_3_uf_at_10MWh": 1.029,
+    "scenario_4_uf_at_10MWh": 1.106,
+    "scenario_5_uf_at_10MWh": 0.732,
+    "scenario_6_uf_at_10MWh": 0.73,
+    "scenario_7_uf_at_10MWh": 0.731,
+    "scenario_8_uf_at_10MWh": 0.652,
+    "scenario_9_uf_at_10MWh": 0.895,
+    "scenario_10_uf_at_10MWh": 0.866,
+    "scenario_11_uf_at_10MWh": 0.894,
+    "scenario_12_uf_at_10MWh": 0.892,
+    "scenario_13_uf_at_10MWh": 1.7,
+    "scenario_14_uf_at_10MWh": 1.908,
+    "scenario_15_uf_at_10MWh": 0.706,
+    "scenario_16_uf_at_10MWh": 0.785,
+    "scenario_17_uf_at_10MWh": 1.785,
+    "scenario_18_uf_at_10MWh": 1.725,
+    "scenario_19_uf_at_10MWh": 0.627,
+    "scenario_20_uf_at_10MWh": 0.603
+  },
+  "n_results": 220
+}

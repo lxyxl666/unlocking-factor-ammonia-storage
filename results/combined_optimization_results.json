@@ -1,0 +1,174 @@
+{
+  "n_results": 492,
+  "storage_capacities": [
+    0,
+    5,
+    10,
+    20,
+    30,
+    50,
+    100
+  ],
+  "comparison_table": [
+    {
+      "scenario_id": 1.0,
+      "single_alkel_nh3": 30.0,
+      "single_pemel_nh3": 50.94,
+      "dual_nh3": 51.12,
+      "gain_vs_alkel_pct": 70.4,
+      "gap_vs_pemel_pct": -0.4
+    },
+    {
+      "scenario_id": 2.0,
+      "single_alkel_nh3": 27.0,
+      "single_pemel_nh3": 49.5,
+      "dual_nh3": 49.68,
+      "gain_vs_alkel_pct": 84.0,
+      "gap_vs_pemel_pct": -0.4
+    },
+    {
+      "scenario_id": 3.0,
+      "single_alkel_nh3": 24.0,
+      "single_pemel_nh3": 47.87,
+      "dual_nh3": 48.07,
+      "gain_vs_alkel_pct": 100.3,
+      "gap_vs_pemel_pct": -0.4
+    },
+    {
+      "scenario_id": 4.0,
+      "single_alkel_nh3": 21.0,
+      "single_pemel_nh3": 46.74,
+      "dual_nh3": 46.89,
+      "gain_vs_alkel_pct": 123.3,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 5.0,
+      "single_alkel_nh3": 30.0,
+      "single_pemel_nh3": 54.05,
+      "dual_nh3": 54.22,
+      "gain_vs_alkel_pct": 80.7,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 6.0,
+      "single_alkel_nh3": 27.0,
+      "single_pemel_nh3": 52.05,
+      "dual_nh3": 52.19,
+      "gain_vs_alkel_pct": 93.3,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 7.0,
+      "single_alkel_nh3": 21.0,
+      "single_pemel_nh3": 49.76,
+      "dual_nh3": 49.89,
+      "gain_vs_alkel_pct": 137.6,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 8.0,
+      "single_alkel_nh3": 15.0,
+      "single_pemel_nh3": 47.46,
+      "dual_nh3": 47.68,
+      "gain_vs_alkel_pct": 217.9,
+      "gap_vs_pemel_pct": -0.5
+    },
+    {
+      "scenario_id": 9.0,
+      "single_alkel_nh3": 24.0,
+      "single_pemel_nh3": 36.46,
+      "dual_nh3": 36.49,
+      "gain_vs_alkel_pct": 52.0,
+      "gap_vs_pemel_pct": -0.1
+    },
+    {
+      "scenario_id": 10.0,
+      "single_alkel_nh3": 21.0,
+      "single_pemel_nh3": 33.26,
+      "dual_nh3": 33.34,
+      "gain_vs_alkel_pct": 58.8,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 11.0,
+      "single_alkel_nh3": 15.0,
+      "single_pemel_nh3": 29.92,
+      "dual_nh3": 30.0,
+      "gain_vs_alkel_pct": 100.0,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 12.0,
+      "single_alkel_nh3": 9.0,
+      "single_pemel_nh3": 26.66,
+      "dual_nh3": 26.75,
+      "gain_vs_alkel_pct": 197.3,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 13.0,
+      "single_alkel_nh3": 21.0,
+      "single_pemel_nh3": 38.56,
+      "dual_nh3": 38.69,
+      "gain_vs_alkel_pct": 84.3,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 14.0,
+      "single_alkel_nh3": 15.0,
+      "single_pemel_nh3": 34.64,
+      "dual_nh3": 34.75,
+      "gain_vs_alkel_pct": 131.7,
+      "gap_vs_pemel_pct": -0.3
+    },
+    {
+      "scenario_id": 15.0,
+      "single_alkel_nh3": 0.0,
+      "single_pemel_nh3": 28.78,
+      "dual_nh3": 28.92,
+      "gain_vs_alkel_pct": 0,
+      "gap_vs_pemel_pct": -0.5
+    },
+    {
+      "scenario_id": 16.0,
+      "single_alkel_nh3": 0.0,
+      "single_pemel_nh3": 21.9,
+      "dual_nh3": 22.25,
+      "gain_vs_alkel_pct": 0,
+      "gap_vs_pemel_pct": -1.6
+    },
+    {
+      "scenario_id": 17.0,
+      "single_alkel_nh3": 21.0,
+      "single_pemel_nh3": 39.27,
+      "dual_nh3": 39.34,
+      "gain_vs_alkel_pct": 87.3,
+      "gap_vs_pemel_pct": -0.2
+    },
+    {
+      "scenario_id": 18.0,
+      "single_alkel_nh3": 15.0,
+      "single_pemel_nh3": 34.95,
+      "dual_nh3": 35.02,
+      "gain_vs_alkel_pct": 133.4,
+      "gap_vs_pemel_pct": -0.2
+    },
+    {
+      "scenario_id": 19.0,
+      "single_alkel_nh3": 0.0,
+      "single_pemel_nh3": 28.34,
+      "dual_nh3": 28.46,
+      "gain_vs_alkel_pct": 0,
+      "gap_vs_pemel_pct": -0.4
+    },
+    {
+      "scenario_id": 20.0,
+      "single_alkel_nh3": 0.0,
+      "single_pemel_nh3": 21.73,
+      "dual_nh3": 21.93,
+      "gain_vs_alkel_pct": 0,
+      "gap_vs_pemel_pct": -0.9
+    }
+  ]
+}

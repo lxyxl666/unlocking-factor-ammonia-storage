@@ -1,0 +1,227 @@
+{
+  "base_lcoa": 4032.8,
+  "tornado_data": [
+    {
+      "parameter": "Storage investment",
+      "multiplier": 0.7,
+      "value": 700.0,
+      "unit": "yuan/kWh",
+      "lcoa": 4090.6,
+      "lcoa_delta_pct": 1.44
+    },
+    {
+      "parameter": "Storage investment",
+      "multiplier": 0.85,
+      "value": 850.0,
+      "unit": "yuan/kWh",
+      "lcoa": 4097.3,
+      "lcoa_delta_pct": 1.6
+    },
+    {
+      "parameter": "Storage investment",
+      "multiplier": 1.0,
+      "value": 1000.0,
+      "unit": "yuan/kWh",
+      "lcoa": 4104.0,
+      "lcoa_delta_pct": 1.77
+    },
+    {
+      "parameter": "Storage investment",
+      "multiplier": 1.15,
+      "value": 1150.0,
+      "unit": "yuan/kWh",
+      "lcoa": 4110.6,
+      "lcoa_delta_pct": 1.93
+    },
+    {
+      "parameter": "Storage investment",
+      "multiplier": 1.3,
+      "value": 1300.0,
+      "unit": "yuan/kWh",
+      "lcoa": 4117.3,
+      "lcoa_delta_pct": 2.1
+    },
+    {
+      "parameter": "Wind/PV LCOE",
+      "multiplier": 0.7,
+      "value": 0.7,
+      "unit": "x base",
+      "lcoa": 2752.2,
+      "lcoa_delta_pct": -31.75
+    },
+    {
+      "parameter": "Wind/PV LCOE",
+      "multiplier": 0.85,
+      "value": 0.85,
+      "unit": "x base",
+      "lcoa": 3392.5,
+      "lcoa_delta_pct": -15.88
+    },
+    {
+      "parameter": "Wind/PV LCOE",
+      "multiplier": 1.0,
+      "value": 1.0,
+      "unit": "x base",
+      "lcoa": 4032.8,
+      "lcoa_delta_pct": 0.0
+    },
+    {
+      "parameter": "Wind/PV LCOE",
+      "multiplier": 1.15,
+      "value": 1.15,
+      "unit": "x base",
+      "lcoa": 4673.0,
+      "lcoa_delta_pct": 15.88
+    },
+    {
+      "parameter": "Wind/PV LCOE",
+      "multiplier": 1.3,
+      "value": 1.3,
+      "unit": "x base",
+      "lcoa": 5313.3,
+      "lcoa_delta_pct": 31.75
+    },
+    {
+      "parameter": "NH3 selling price",
+      "multiplier": 0.7,
+      "value": 2896.8239999999996,
+      "unit": "yuan/ton",
+      "lcoa": 7691.1,
+      "lcoa_delta_pct": 90.72
+    },
+    {
+      "parameter": "NH3 selling price",
+      "multiplier": 0.85,
+      "value": 3517.5719999999997,
+      "unit": "yuan/ton",
+      "lcoa": 7691.1,
+      "lcoa_delta_pct": 90.72
+    },
+    {
+      "parameter": "NH3 selling price",
+      "multiplier": 1.0,
+      "value": 4138.32,
+      "unit": "yuan/ton",
+      "lcoa": 7691.1,
+      "lcoa_delta_pct": 90.72
+    },
+    {
+      "parameter": "NH3 selling price",
+      "multiplier": 1.15,
+      "value": 4759.067999999999,
+      "unit": "yuan/ton",
+      "lcoa": 7691.1,
+      "lcoa_delta_pct": 90.72
+    },
+    {
+      "parameter": "NH3 selling price",
+      "multiplier": 1.3,
+      "value": 5379.816,
+      "unit": "yuan/ton",
+      "lcoa": 7691.1,
+      "lcoa_delta_pct": 90.72
+    },
+    {
+      "parameter": "Electrolyzer CAPEX",
+      "multiplier": 0.7,
+      "value": 0.7,
+      "unit": "x base",
+      "lcoa": 2779.5,
+      "lcoa_delta_pct": -31.08
+    },
+    {
+      "parameter": "Electrolyzer CAPEX",
+      "multiplier": 0.85,
+      "value": 0.85,
+      "unit": "x base",
+      "lcoa": 3406.2,
+      "lcoa_delta_pct": -15.54
+    },
+    {
+      "parameter": "Electrolyzer CAPEX",
+      "multiplier": 1.0,
+      "value": 1.0,
+      "unit": "x base",
+      "lcoa": 4032.8,
+      "lcoa_delta_pct": 0.0
+    },
+    {
+      "parameter": "Electrolyzer CAPEX",
+      "multiplier": 1.15,
+      "value": 1.15,
+      "unit": "x base",
+      "lcoa": 4659.4,
+      "lcoa_delta_pct": 15.54
+    },
+    {
+      "parameter": "Electrolyzer CAPEX",
+      "multiplier": 1.3,
+      "value": 1.3,
+      "unit": "x base",
+      "lcoa": 5286.0,
+      "lcoa_delta_pct": 31.08
+    },
+    {
+      "parameter": "Discount rate",
+      "multiplier": 0.625,
+      "value": 5.0,
+      "unit": "%",
+      "lcoa": 3093.3,
+      "lcoa_delta_pct": -23.3
+    },
+    {
+      "parameter": "Discount rate",
+      "multiplier": 1.0,
+      "value": 8.0,
+      "unit": "%",
+      "lcoa": 4032.8,
+      "lcoa_delta_pct": 0.0
+    },
+    {
+      "parameter": "Discount rate",
+      "multiplier": 1.25,
+      "value": 10.0,
+      "unit": "%",
+      "lcoa": 4712.4,
+      "lcoa_delta_pct": 16.85
+    },
+    {
+      "parameter": "Discount rate",
+      "multiplier": 1.5,
+      "value": 12.0,
+      "unit": "%",
+      "lcoa": 5426.5,
+      "lcoa_delta_pct": 34.56
+    },
+    {
+      "parameter": "Discount rate",
+      "multiplier": 1.875,
+      "value": 15.0,
+      "unit": "%",
+      "lcoa": 6548.6,
+      "lcoa_delta_pct": 62.38
+    }
+  ],
+  "param_ranges": {
+    "Storage investment": {
+      "min": 1.44,
+      "max": 2.1
+    },
+    "Wind/PV LCOE": {
+      "min": -31.75,
+      "max": 31.75
+    },
+    "NH3 selling price": {
+      "min": 90.72,
+      "max": 90.72
+    },
+    "Electrolyzer CAPEX": {
+      "min": -31.08,
+      "max": 31.08
+    },
+    "Discount rate": {
+      "min": -23.3,
+      "max": 62.38
+    }
+  }
+}

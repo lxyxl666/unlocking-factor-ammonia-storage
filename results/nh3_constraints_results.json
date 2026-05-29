@@ -1,0 +1,134 @@
+[
+  {
+    "scenario": 1,
+    "mode": "Grid 36 t/d",
+    "nh3_config": "Baseline",
+    "feasible": true,
+    "daily_nh3": 36.0,
+    "ton_cost": -144.62,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.5,
+    "alkel_energy_share": 0.2579
+  },
+  {
+    "scenario": 1,
+    "mode": "Grid 36 t/d",
+    "nh3_config": "Constrained",
+    "feasible": true,
+    "daily_nh3": 36.0,
+    "ton_cost": -132.21,
+    "nh3_startups": 1,
+    "equipment_utilization": 0.5,
+    "alkel_energy_share": 0.2579
+  },
+  {
+    "scenario": 1,
+    "mode": "Off-grid max",
+    "nh3_config": "Baseline",
+    "feasible": true,
+    "daily_nh3": 51.1163,
+    "ton_cost": 4749.12,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.7099,
+    "alkel_energy_share": 0.366
+  },
+  {
+    "scenario": 1,
+    "mode": "Off-grid max",
+    "nh3_config": "Constrained",
+    "feasible": true,
+    "daily_nh3": 47.9797,
+    "ton_cost": 4934.92,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.6664,
+    "alkel_energy_share": 0.3889
+  },
+  {
+    "scenario": 17,
+    "mode": "Grid 36 t/d",
+    "nh3_config": "Baseline",
+    "feasible": true,
+    "daily_nh3": 36.0,
+    "ton_cost": 2351.83,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.5,
+    "alkel_energy_share": 0.2993
+  },
+  {
+    "scenario": 17,
+    "mode": "Grid 36 t/d",
+    "nh3_config": "Constrained",
+    "feasible": true,
+    "daily_nh3": 36.0,
+    "ton_cost": 2355.34,
+    "nh3_startups": 1,
+    "equipment_utilization": 0.5,
+    "alkel_energy_share": 0.2993
+  },
+  {
+    "scenario": 17,
+    "mode": "Off-grid max",
+    "nh3_config": "Baseline",
+    "feasible": true,
+    "daily_nh3": 39.3404,
+    "ton_cost": 4079.57,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.5464,
+    "alkel_energy_share": 0.3376
+  },
+  {
+    "scenario": 17,
+    "mode": "Off-grid max",
+    "nh3_config": "Constrained",
+    "feasible": true,
+    "daily_nh3": 36.4721,
+    "ton_cost": 4251.3,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.5066,
+    "alkel_energy_share": 0.3631
+  },
+  {
+    "scenario": 18,
+    "mode": "Grid 36 t/d",
+    "nh3_config": "Baseline",
+    "feasible": true,
+    "daily_nh3": 36.0,
+    "ton_cost": 3268.58,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.5,
+    "alkel_energy_share": 0.2993
+  },
+  {
+    "scenario": 18,
+    "mode": "Grid 36 t/d",
+    "nh3_config": "Constrained",
+    "feasible": true,
+    "daily_nh3": 36.0,
+    "ton_cost": 3272.09,
+    "nh3_startups": 1,
+    "equipment_utilization": 0.5,
+    "alkel_energy_share": 0.2993
+  },
+  {
+    "scenario": 18,
+    "mode": "Off-grid max",
+    "nh3_config": "Baseline",
+    "feasible": true,
+    "daily_nh3": 35.015,
+    "ton_cost": 3942.54,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.4863,
+    "alkel_energy_share": 0.2958
+  },
+  {
+    "scenario": 18,
+    "mode": "Off-grid max",
+    "nh3_config": "Constrained",
+    "feasible": true,
+    "daily_nh3": 30.7421,
+    "ton_cost": 4226.84,
+    "nh3_startups": 24,
+    "equipment_utilization": 0.427,
+    "alkel_energy_share": 0.3353
+  }
+]
